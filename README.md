@@ -33,7 +33,7 @@ In the domain of personalized learning path generation, a significant problem pe
 
 ### Opportunity Statement
 There is an opportunity to revolutionize personalized learning by developing a software solution that seamlessly integrates educational platforms and resources. This solution can optimize the delivery of personalized learning experiences, improve access to a diverse range of resources, and enhance the effectiveness of dynamic learning path adaptation.
-
+<img src="https://github.com/vidhisagathiya/LearningCompass-Soen6841_Group14/blob/main/Opportunity.png" alt="Opportunity" width="50%">
 ### Scope
 The scope of this project encompasses the development of a comprehensive software solution that addresses the lack of integration and synchronization among various educational platforms and resources to deliver seamless personalized learning experiences. The key components of the scope include platform integration, resource aggregation, user profiling and preferences, dynamic learning path generation, user interface and experience, performance monitoring and analytics, and security and privacy.
 
